@@ -1,0 +1,26 @@
+body{
+    background:linear-gradient(rgb(211, 101, 211),rgb(197, 63, 197),rgb(146, 110, 146),purple);
+    color: whitesmoke;
+}
+.heading{
+    width: 100%;
+    margin: 0;
+    font-size: 20px;
+}
+.note{
+    color: whitesmoke;
+    font-size: 15px;
+}
+.song_name{
+    font-size: 20px;
+}
+canvas{
+    background-color: rgb(196, 93, 196);
+    border: 5px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px white;
+}
+
+#button{
+    color:rgb(196, 93, 196);
+}
